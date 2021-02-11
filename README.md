@@ -1,5 +1,6 @@
 # BCN3D_Moveo_ROS
-# Ubuntu 16 (32 bit)
+# How to Use Moveo_Ros in Ubuntu
+Ubuntu 16 (32 bit)
 ROS Kinetic 
 
 Install ROS Kinetic 
